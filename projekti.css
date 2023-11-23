@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(228, 219, 219);
+    
+}
+header{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.lo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 25px;
+    width: 12%;
+
+}
+
+ul{
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+width: 88%;
+justify-content: flex-end;
+list-style: none;
+margin-right: 20px;
+}
+
+ul li{
+    padding: 15px;
+    font-size: 15px;
+    color: black (89, 101, 101);
+}
