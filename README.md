@@ -8,13 +8,12 @@
 </head>
 
 <body>
-    <header></header>
+    <header>
     <div class="lo"><img src="photoHTML/loggo.jpg" alt="" height="65px"> </div>
 
    <ul>
     <li>Home</li>
     <li>About Us</li>
-    <li>Services</li>
     <li>Contact Us</li>
     <li>Store</li>
    </ul>
