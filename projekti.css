@@ -1,13 +1,16 @@
 *{
     margin: 0px;
     padding: 0px;
-    background-color: rgb(228, 219, 219);
+   
     
 }
-header{
-    display: flex;
-    flex-direction: row;
+nav{
     width: 100%;
+    height: 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ee7818;
 }
 .lo{
     display: flex;
@@ -15,6 +18,7 @@ header{
     justify-content: space-between;
     margin-right: 25px;
     width: 12%;
+    margin-left: 0.5%;
 
 }
 
@@ -31,5 +35,5 @@ margin-right: 20px;
 ul li{
     padding: 15px;
     font-size: 15px;
-    color: black (89, 101, 101);
+    color: white;
 }
