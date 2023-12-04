@@ -67,6 +67,14 @@
     
 </div>
 
+
+<div class="reklamacion">
+    <h3>Abonimi</h3>
+    <div class="imell" ><input type="text" id="email" placeholder="Email">
+    </div>
+</div>
+
+
 </div>
     
 
