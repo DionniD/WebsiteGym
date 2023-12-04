@@ -86,3 +86,28 @@ h3{
     color: rgb(129, 102, 102);
     font-size: 2rem;
 }
+.info{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+    width: 100%;
+     flex-direction: row;
+     font-style: italic;
+}
+.menyja{
+height:  65%;
+font-size: 25px;
+margin-left: 50px;
+color: white;
+margin-left: 50px;
+
+}
+.menyja p {
+    line-height: 1.6;
+}
+.kontakti h3{
+color: white;
+}
+.kontakti{
+    color: white;
+}
