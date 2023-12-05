@@ -92,6 +92,7 @@ h3{
     background-color: black;
     width: 100%;
      flex-direction: row;
+     height: 60%;
 }
 .menyja{
 height:  65%;
@@ -99,7 +100,6 @@ font-size: 25px;
 margin-left: 50px;
 color: white;
 margin-left: 50px;
-
 }
 .menyja p {
     line-height: 1.6;
@@ -116,36 +116,139 @@ color: white;
 .ofertat{
     display: flex;
     width: 100%;
-    height: 80%;
+    height: 90%;
     background-color: white;
     flex-direction: row;
     justify-content: space-around;
     margin-bottom: 27px;
+ ;  
 }
-.oferta1{
-    background-color: white;
-    width: 25%;
-    border: 5px solid black;
+.oferta1{  
+    width: 20%;
+    border: 1px solid black;
     display: flex;
     flex-direction: column;
     align-items: center;
     
 }
-.oferta2{
-    background-color: white;
-    width: 25%;
-    border: 5px solid black;
+.oferta2{  
+    width: 20%;
+    border: 1px solid black;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
-.oferta3{
-    background-color: white;
-    width: 25%;
-    border: 5px solid black;
+.oferta3{  
+    width: 20%;
+    border: 1px solid black;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
-
-
+.oferta4{
+    width: 20%;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.oferta1 h2{
+   margin-top: 35px;
+   font-size: 40px;
+}
+.oferta1 p{
+    text-align: center;
+    margin-top: 65px;
+    font-size: 19px;
+}
+.oferta1 h1{
+    font-size: 40px;
+    width: 70%;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.oferta2 h2{
+    margin-top: 35px;
+    font-size: 40px;
+ }
+.oferta2 p{
+     text-align: center;
+     margin-top: 65px;
+     font-size: 19px;
+ }
+.oferta2 h1{
+     font-size: 40px;
+     width: 70%;
+     border: 1px solid black;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+}
+.oferta3 h2{
+    margin-top: 35px;
+    font-size: 40px;
+ }
+.oferta3 p{
+     text-align: center;
+     margin-top: 65px;
+     font-size: 19px;
+ }
+.oferta3 h1{
+     font-size: 40px;
+     width: 70%;
+     border: 1px solid black;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+}
+.oferta4 h2{
+    margin-top: 35px;
+    font-size: 40px;
+ }
+.oferta4 p{
+     text-align: center;
+     margin-top: 65px;
+     font-size: 19px;
+ }
+.oferta4 h1{
+     font-size: 40px;
+     width: 70%;
+     border: 1px solid black;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+}
+.fm1{
+    margin-top: 10px;
+    height: 60px;
+}
+.fm2{
+    margin-top: 10px;
+    height: 60px;
+}
+.fm3{
+    margin-top: 10px;
+    height: 60px;
+}
+.fm4{
+    margin-top: 10px;
+    height: 60px;
+}
+.m1{
+    margin-top: 10px;
+    height: 60px;
+}
+.m2{
+    margin-top: 10px;
+    height: 60px;
+}
+.m3{
+    margin-top: 10px;
+    height: 60px;
+}
+.m4{
+    margin-top: 10px;
+    height: 60px;
+}
