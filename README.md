@@ -48,10 +48,21 @@
     </div>
     </div>
 
+    <div class="ofertat">
+    <div class="oferta1">
+      
+    </div>
+    <div class="oferta2"></div>
+    <div class="oferta3"></div>
+    
+    </div>
 
 
-<div class="info">
-<div class="menyja">
+
+
+
+<div class="info" >
+<div class="menyja" >
     <p>Home</p>
     <p>About Us</p>
     <p>Store</p>
@@ -67,13 +78,11 @@
     
 </div>
 
-
 <div class="reklamacion">
     <h3>Abonimi</h3>
     <div class="imell" ><input type="text" id="email" placeholder="Email">
     </div>
 </div>
-
 
 </div>
     
