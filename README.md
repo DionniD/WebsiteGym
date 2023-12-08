@@ -18,9 +18,9 @@
     </div>
      <ul>
         <li><a href="#">Home</a></li>
-        <li><a href="#">Contact Us</a></li>
+        <li><a href="ContactUs.html">Contact Us</a></li>
         <li><a href="Store.html">Store</a></li>
-        <li><a href="#"></a>Sing In</li>
+        <li><a href="#">Sing In</a></li>
 
        </ul>
     </nav>
@@ -144,20 +144,23 @@
                 <p>Sign In</p>
             </div>
             <div class="kontakti">
-                <h3>Kontakti</h3>
-            <p>Adress: Rr. Ahmet Krasniqi “Arbëri”<br>
-                10000 Prishtinë, Republika e Kosovës <br>
-                Tel: +383 38 40 50 60 <br>
-                Web: www.vdfitness.eu <br>
-                Email: info@vdfitness.eu</p>
+                <h3>CONTACT</h3>
+            <p>Adress: Rruga Xhevded Doda,</p>
+            <p>10000 Prishtinë, Republika e Kosovës </p>
+            <p>Tel: +383 38 40 50 60 </p>
+            <p>Web: www.vdfitness.eu</p> 
+            <p>Email: info@vdfitness.eu</p>
                 
             </div>
             
 
             <div class="reklamacion">
-                <h3>Abonimi</h3>
-                <div class="imell" >
-                <input type="text" id="email" placeholder="Email">
+                <h3>SUBSCRIBE FOR NEWSLETTER</h3>
+                <div class="reklamacioni">
+                    <p>Email</p>
+                     <img src="facebook.png" alt="" class="fb">
+                     <img src="instagram.png" alt="" class="ig">
+                     <img src="twitter.png" alt="" class="tw">
                 </div>
             </div>
         </div>                
