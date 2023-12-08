@@ -45,10 +45,21 @@
           
     </div>
     </div>
+    <div class="maps">
+        <p> 
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5185.114815854279!2d21.
+            146060227304414!3d42.65353515231149!2m3!1f0!2f0!3f0!3m2!
+            1i1024!2i768!4f13.1!3m3!1m2!1s0x13549f3f9c98dcad%3A0x34f016cddf4a9928!
+            2sDukagjini%20Center!5e0!3m2!1sen!2s!4v1701950490839!5m2!1sen!2s"
+             width="600" height="450" style="border:0;"
+              allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+            </iframe>
+        </p>
+    </div>
     <div class="ofertat">
         <div class="oferta1">
           <h2>1 MONTH</h2>
-          <p>Maybe there's something to <br>
+           <p>Maybe there's something to <br>
              this whole gym thing after all. <br> 
              Why not give us a try, you <br> 
              might just be surprised. It's <br> 
@@ -133,7 +144,8 @@
 
             <div class="reklamacion">
                 <h3>Abonimi</h3>
-                <div class="imell" ><input type="text" id="email" placeholder="Email">
+                <div class="imell" >
+                <input type="text" id="email" placeholder="Email">
                 </div>
             </div>
         </div>                
