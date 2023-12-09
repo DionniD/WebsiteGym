@@ -157,7 +157,7 @@
             <div class="reklamacion">
                 <h3>SUBSCRIBE FOR NEWSLETTER</h3>
                 <div class="reklamacioni">
-                    <p>Email</p>
+                   <input type="text" placeholder="Email" style="height: 40px;" size="40">
                      <img src="facebook.png" alt="" class="fb">
                      <img src="instagram.png" alt="" class="ig">
                      <img src="twitter.png" alt="" class="tw">
